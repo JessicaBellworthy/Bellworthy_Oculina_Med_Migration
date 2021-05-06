@@ -10,6 +10,5 @@ Two R files are provided.
 "Oculina_Bellworthy_graphs&stats" includes assumption testing and statistical testing of differences between sampling depths. Also here are the construction of graphics and graph panels for figures.
 "Oculina_Bellworthy_RLC parameters" takes raw relative electron transport data output from the pulse amplitude modulated fluorometer light curves and computes the photosynthestic parameters rETRmax, Ek, alpha, and beta. This file also contains statistical testing and graphics construction for these parameters.
 
-All .csv files are either called for as input data for the code or are output data files from the code.
+All .csv files are either called for as input data for the code or are output data files from the code. These are raw data files.
 
-A single oveview file (.xls) is provided containing all raw data values.
